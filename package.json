@@ -1,0 +1,16 @@
+{
+  "name": "dtms-front-end",
+  "version": "0.0.0",
+  "description": "front end of dtms",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx live-server --open=index-3.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesuseun Jeremiah Olatunde",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "nodemon": "^3.1.0"
+  }
+}
